@@ -468,6 +468,14 @@ fieldset[disabled] a.btn {
     background-color: #0046e5;
     border-color: #0046e5;
 }
+.btn--outlinecolor,
+.btn--outlinecolor:visited {
+    background-color: #00e439;
+    border-color: transparent;
+    border-width: 1px;
+    color: #ffffff;
+}
+
 .btn--outline,
 .btn--outline:visited {
     background-color: transparent;
