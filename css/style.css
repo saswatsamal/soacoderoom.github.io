@@ -473,6 +473,13 @@ fieldset[disabled] a.btn {
     background-color: #0046e5;
     border-color: #0046e5;
 }
+.btn--outlineform,
+.btn--outlineform:visited {
+    background-color: #7d00e4;
+    border-color: transparent;
+    border-width: 1px;
+    color: #ffffff;
+}
 .btn--outlinecolor,
 .btn--outlinecolor:visited {
     background-color: #00e439;
