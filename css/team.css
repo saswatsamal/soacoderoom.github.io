@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.shift{
+    margin: 100px auto;
+}
+.para{
+    font-size: 1rem;
+    font-weight: 400 !important;
+}
+.para2{
+    font-size: 1rem;
+    font-weight: 400 !important;
+    width: auto;
+}
+.pic{
+    border-radius: 50%;
+    height: 250px;
+}
+.icon:hover{
+    filter: invert(45%) sepia(99%) saturate(318%) hue-rotate(93deg) brightness(100%) contrast(97%);
+}
+.font-light{
+    font-weight: 300;
+}
+.font-bold{
+    font-weight: 700;
+}
+.lottie{
+    height: 200px ;
+    width:auto ;
+}
+.desc{
+
+        font-size: 0.8rem;
+        margin-top: -12px;
+
+}
+@media(min-width:768px){
+    .pic{
+        height: 200px;
+    }
+    .para{
+        font-size: 1.2rem;
+    }
+    .para2{
+        font-size: 1.2rem;
+        width: 80%;
+    }
+    .desc{
+        font-size: 0.8rem;
+        margin-top: -12px;
+    }
+}
+@media(min-width:992px){
+    .pic{
+        height: 200px;
+    }
+    .lottie{
+        height: auto ;
+        width:auto ;
+    }
+}
