@@ -480,9 +480,18 @@ fieldset[disabled] a.btn {
     border-width: 1px;
     color: #ffffff;
 }
+
 .btn--outlinecolor,
 .btn--outlinecolor:visited {
     background-color: #00e439;
+    border-color: transparent;
+    border-width: 1px;
+    color: #ffffff;
+}
+
+.btn--outlineevent,
+.btn--outlineevent:visited {
+    background-color: #e47a00;
     border-color: transparent;
     border-width: 1px;
     color: #ffffff;
