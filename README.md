@@ -5,6 +5,10 @@
 - Repository containing the Official Website of SOA Code Room. 
 - Contributing details will be out very soon.
 
+To do
+- Make event page active.
+
+
 <hr>
 
 ![Repo Size](https://img.shields.io/github/languages/code-size/SOACodeRoom/soacoderoom.github.io?color=black&logo=html5&logoColor=green&style=for-the-badge)
