@@ -6,7 +6,8 @@
 - Contributing details will be out very soon.
 
 To do
-- Make event page active.
+
+- [x] Make event page active.
 
 
 <hr>
