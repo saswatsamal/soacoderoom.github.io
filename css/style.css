@@ -10,9 +10,8 @@ footer {
     text-align:center; 
     height: 50px;  
     }
-body {
-    margin: 0;
-}
+    body {
+margin: 0;}
 article,
 aside,
 header,
@@ -483,7 +482,7 @@ fieldset[disabled] a.btn {
 
 .btn--outlinecolor,
 .btn--outlinecolor:visited {
-    background-color: #00e439;
+    background-color: #ffb005;
     border-color: transparent;
     border-width: 1px;
     color: #ffffff;
@@ -491,7 +490,7 @@ fieldset[disabled] a.btn {
 
 .btn--outlineevent,
 .btn--outlineevent:visited {
-    background-color: #e47a00;
+    background-color: #540a99;
     border-color: transparent;
     border-width: 1px;
     color: #ffffff;
