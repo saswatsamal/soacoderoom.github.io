@@ -504,6 +504,20 @@ fieldset[disabled] a.btn {
     border-color: #ffb005;
 }
 
+.btn--outlineinsta {
+    background-color: #E1306C;
+    border-color: #E1306C;
+    color: #fff;
+}
+.btn--outlineinsta:focus,
+.btn--outlineinsta:hover {
+    background-color: #C13584;
+    border-color: #C13584;
+}
+.btn--outlineinsta:active {
+    background-color: #E1306C;
+    border-color: #E1306C;
+}
 
 /* .btn--outlineform,
 .btn--outlineform:visited {
