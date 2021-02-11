@@ -472,21 +472,54 @@ fieldset[disabled] a.btn {
     background-color: #0046e5;
     border-color: #0046e5;
 }
-.btn--outlineform,
+
+.btn--outlineform {
+    background-color: #7d00e4;
+    border-color: #7d00e4;
+    color: #fff;
+}
+.btn--outlineform:focus,
+.btn--outlineform:hover {
+    background-color: #57019c;
+    border-color: #57019c;
+}
+.btn--outlineform:active {
+    background-color: #7d00e4;
+    border-color: #7d00e4;
+}
+
+
+.btn--outlinecolor {
+    background-color: #ffb005;
+    border-color: #ffb005;
+    color: #fff;
+}
+.btn--outlinecolor:focus,
+.btn--outlinecolor:hover {
+    background-color: #db9a0d;
+    border-color: #db9a0d;
+}
+.btn--outlinecolor:active {
+    background-color: #ffb005;
+    border-color: #ffb005;
+}
+
+
+/* .btn--outlineform,
 .btn--outlineform:visited {
     background-color: #7d00e4;
     border-color: transparent;
     border-width: 1px;
     color: #ffffff;
-}
+} */
 
-.btn--outlinecolor,
+/* .btn--outlinecolor,
 .btn--outlinecolor:visited {
     background-color: #ffb005;
     border-color: transparent;
     border-width: 1px;
     color: #ffffff;
-}
+} */
 
 .btn--outlineevent,
 .btn--outlineevent:visited {
