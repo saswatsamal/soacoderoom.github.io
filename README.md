@@ -9,6 +9,12 @@ To do
 
 - [x] Make event page active.
 
+- [ ] Pop-up for latest updates.
+
+- [ ] Social Media Footer.
+
+- [ ] Login (Validation)
+
 
 <hr>
 
