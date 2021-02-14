@@ -473,6 +473,23 @@ fieldset[disabled] a.btn {
     border-color: #0046e5;
 }
 
+
+.btn--outlinepop {
+    background-color: #000000;
+    border-color: #000000;
+    color: #fff;
+}
+.btn--outlinepop:focus,
+.btn--outlinepop:hover {
+    background-color: #000000;
+    border-color: #000000;
+}
+.btn--outlinepop:active {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+
 .btn--outlineform {
     background-color: #7d00e4;
     border-color: #7d00e4;
