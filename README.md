@@ -9,7 +9,9 @@ To do
 
 - [x] Make event page active.
 
-- [ ] Pop-up for latest updates.
+- [x] Pop-up for latest updates.
+
+- [ ] Loading Page
 
 - [ ] Social Media Footer.
 
